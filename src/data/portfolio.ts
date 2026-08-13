@@ -14,7 +14,7 @@ export const profile = {
   location: 'Moratuwa, Sri Lanka',
   linkedin: 'https://linkedin.com/in/shevon-krishmal-18ab461b5/',
   github: 'https://github.com/shevonkrishmal',
-  credly: 'https://www.credly.com/users/shevon-krishmal.e0b60150/badges/credly',
+  credly: 'https://www.credly.com/users/shevon-krishmal',
   cvPath: '/cv/Shevon-Krishmal-CV.pdf',
   cvFileName: 'Shevon-Krishmal-CV.pdf',
   photo: '/images/profile.png',
